@@ -1,0 +1,20 @@
+.Cart {
+	padding: 1em;
+}
+.Cart table {
+  width: 100%;
+}
+.Cart th {
+  text-align: left;
+}
+.Cart input {
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #E8EEF2;
+  text-align: center;
+}
+.Cart .total {
+  font-size: 110%;
+  font-weight: bold;
+}
